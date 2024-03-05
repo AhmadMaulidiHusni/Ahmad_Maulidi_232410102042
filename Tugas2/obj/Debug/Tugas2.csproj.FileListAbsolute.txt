@@ -1,0 +1,7 @@
+D:\Ahmad\Matkul Semester 2\Pemrograman Beorientasi Objek\Tatap Muka\Tugas2\bin\Debug\Tugas2.exe.config
+D:\Ahmad\Matkul Semester 2\Pemrograman Beorientasi Objek\Tatap Muka\Tugas2\bin\Debug\Tugas2.exe
+D:\Ahmad\Matkul Semester 2\Pemrograman Beorientasi Objek\Tatap Muka\Tugas2\bin\Debug\Tugas2.pdb
+D:\Ahmad\Matkul Semester 2\Pemrograman Beorientasi Objek\Tatap Muka\Tugas2\obj\Debug\Tugas2.csproj.AssemblyReference.cache
+D:\Ahmad\Matkul Semester 2\Pemrograman Beorientasi Objek\Tatap Muka\Tugas2\obj\Debug\Tugas2.csproj.CoreCompileInputs.cache
+D:\Ahmad\Matkul Semester 2\Pemrograman Beorientasi Objek\Tatap Muka\Tugas2\obj\Debug\Tugas2.exe
+D:\Ahmad\Matkul Semester 2\Pemrograman Beorientasi Objek\Tatap Muka\Tugas2\obj\Debug\Tugas2.pdb
